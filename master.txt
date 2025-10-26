@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chnage in master
+=======
+Change in master
+>>>>>>> test
